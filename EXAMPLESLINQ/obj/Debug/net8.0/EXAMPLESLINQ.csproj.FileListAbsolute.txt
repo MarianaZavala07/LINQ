@@ -1,0 +1,14 @@
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\bin\Debug\net8.0\EXAMPLESLINQ.exe
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\bin\Debug\net8.0\EXAMPLESLINQ.deps.json
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\bin\Debug\net8.0\EXAMPLESLINQ.runtimeconfig.json
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\bin\Debug\net8.0\EXAMPLESLINQ.dll
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\bin\Debug\net8.0\EXAMPLESLINQ.pdb
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\EXAMPLESLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\EXAMPLESLINQ.AssemblyInfoInputs.cache
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\EXAMPLESLINQ.AssemblyInfo.cs
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\EXAMPLESLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\EXAMPLESLINQ.dll
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\refint\EXAMPLESLINQ.dll
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\EXAMPLESLINQ.pdb
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\EXAMPLESLINQ.genruntimeconfig.cache
+C:\Users\Merry\OneDrive\Documents\LINQ\EXAMPLESLINQ\obj\Debug\net8.0\ref\EXAMPLESLINQ.dll
