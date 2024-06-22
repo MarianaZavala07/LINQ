@@ -45,5 +45,5 @@ int[] numeros = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
         {
           Console.WriteLine($"si, el {numero4} es impar");
         }
-        //Ejemplo 4 // where con objetos // estudiantes mayores
+        //Ejemplo 4 // where csson objetos // estudiantes mayores// praccctica de git//
         
